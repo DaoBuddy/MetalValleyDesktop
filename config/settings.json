@@ -1,0 +1,17 @@
+{
+    "language": "en",
+    "loop_interval_seconds": 900,
+    "miner_claim_threshold": 900,
+    "mech_claim_threshold": 100,
+    "mech_redeploy_before": 300,
+    "auto_transfer_address": "0",
+    "botStatus": true,
+    "fee_address": "0x55A5A3305392cDC9c18bEB32f410784c6A30d115",
+    "gastank_source": "1",
+    "gastank_threshold": 0.5,
+    "gastank_refill_amount": 2.0,
+    "gastank_active": true,
+    "daily_schedule_hours": [
+        17
+    ]
+}
